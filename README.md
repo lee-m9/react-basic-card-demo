@@ -1,3 +1,8 @@
+**`A simple react app showcasing class component & functional component usage along with different ways of applying styling`**
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
